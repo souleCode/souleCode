@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, Je suis @souleCode<br>- 👀 Je suis interessant par le ML/IA et le développement informatique(web et mobile)<br>- 🌱 J'apprend actuellment LLMs, GANs développement Mobile Flutter et Flet<br>- 💞️ Je cherche a travailler sur des projets existants afin d'elargir mon champs de savoir-faire<br>- 📫 Vous pouvez me trouver sur kaggle: https://www.kaggle.com/souleymanetraor
+- 👋 Hi, Je suis @souleCode<br>- 👀 Je suis interessé par le ML/IA et le développement informatique(web et mobile)<br>- 🌱 J'apprend actuellment LLMs, GANs développement Mobile Flutter et Flet<br>- 💞️ Je cherche à travailler sur des projets excitants afin d'élargir mon champs de savoir-faire<br>- 📫 Vous pouvez me suivre sur kaggle: https://www.kaggle.com/souleymanetraor
 
 
 ## 🌐 Socials:
