@@ -1,6 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, Je suis @souleCode<br>- 👀 Je suis interessé par le ML/IA et le développement informatique(web et mobile)<br>- 🌱 J'apprend actuellment LLMs, GANs développement Mobile Flutter et Flet<br>- 💞️ Je cherche à travailler sur des projets excitants afin d'élargir mon champs de savoir-faire<br>- 📫 Vous pouvez me suivre sur kaggle: https://www.kaggle.com/souleymanetraor
 
+  ![file](https://www.canva.com/design/DAGQmaz82io/v5q_HB1J9d0Y4CS45xR1aw/edit)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Traore Souleymane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souleymanetraore3275) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/souleymane-traore-0778aa28a/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@souleCode) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@souleymanetraore) 
