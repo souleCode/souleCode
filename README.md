@@ -14,10 +14,10 @@
 class Souleymane:
     def __init__(self):
         self.username = "souleCode"
-        self.role = "Développeur Full Stack & ML Engineer"
+        self.role = "Développeur Full Stack & Data Engineer"
         self.location = "🌍 Casablanca, Morocco"
-        self.interests = ["Machine Learning", "IA/Data", "Développement Web", "Mobile"]
-        self.currently_learning = ["LLMs", "GANs", "Flutter", "Data Engineering"]
+        self.interests = ["Big Data", "IA/Data", "Développement Web", "Mobile","Machine Learning"]
+        self.currently_learning = ["Data Engineering","Pipeline Design","LLMs", "GANs", "Flutter"]
         self.goal = "Travailler sur des projets innovants et élargir mes compétences"
     
     def say_hi(self):
@@ -43,6 +43,48 @@ me.say_hi()
 </div>
 
 ---
+
+## 💻 Stack Technologique – Data Engineering
+
+### 🎯 Langages de Programmation (orientés Data)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
+
+### 🔄 Traitement & Orchestration des Données
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E25A1C?style=for-the-badge&logo=databricks&logoColor=white)
+
+
+---
+
+### 🗄️ Stockage & Data Warehousing
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge\&logo=databricks\&logoColor=white)
+
+---
+
+### ☁️ Cloud & Platforms
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E25A1C?style=for-the-badge\&logo=databricks\&logoColor=white)
+
+---
+
+### 🛠️ DevOps & DataOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
 
 ## 💻 Stack Technologique
 
