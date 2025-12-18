@@ -76,13 +76,16 @@ me.say_hi()
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-E25A1C?style=for-the-badge\&logo=databricks\&logoColor=white)
 
----
+
 
 ### 🛠️ DevOps & DataOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+
+---
 
 
 ## 💻 Stack Technologique
