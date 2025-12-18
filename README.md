@@ -51,7 +51,7 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
----
+
 
 ### 🔄 Traitement & Orchestration des Données
 
@@ -61,7 +61,7 @@ me.say_hi()
 ![Databricks](https://img.shields.io/badge/Databricks-E25A1C?style=for-the-badge&logo=databricks&logoColor=white)
 
 
----
+
 
 ### 🗄️ Stockage & Data Warehousing
 
@@ -70,7 +70,6 @@ me.say_hi()
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge\&logo=databricks\&logoColor=white)
 
----
 
 ### ☁️ Cloud & Platforms
 
